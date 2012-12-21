@@ -1,0 +1,16 @@
+htop
+vlc
+emacs
+auctex
+vim
+git
+subversion
+texlive
+bibtex2html
+build-essential
+python-dev
+python-pip
+cryptkeeper
+indicator-multiload
+pidgin
+oracle-java7-installer
