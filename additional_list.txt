@@ -1,0 +1,4 @@
+texlive
+bibtex2html
+revolution-r
+pidgin
