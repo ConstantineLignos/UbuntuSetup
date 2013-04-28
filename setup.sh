@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/sh -e
 # First install aptitude
 sudo apt-get install -y aptitude
 
