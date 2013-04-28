@@ -1,7 +1,6 @@
 htop
 vlc
 emacs
-auctex
 vim
 git
 subversion
@@ -10,3 +9,4 @@ python-dev
 python-pip
 indicator-multiload
 oracle-java7-installer
+p7zip-full

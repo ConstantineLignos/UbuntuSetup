@@ -1,4 +1,5 @@
 texlive
 bibtex2html
-revolution-r
+auctex
+r-base-core
 pidgin
