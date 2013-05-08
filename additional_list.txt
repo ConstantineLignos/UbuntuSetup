@@ -1,4 +1,10 @@
 texlive
+texlive-latex-extra
+texlive-xetex
+texlive-science
+texlive-humanities
+latexmk
+fonts-linuxlibertine
 bibtex2html
 auctex
 r-base-core
