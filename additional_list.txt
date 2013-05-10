@@ -3,8 +3,10 @@ texlive-latex-extra
 texlive-xetex
 texlive-science
 texlive-humanities
+texlive-latex3
 latexmk
 fonts-linuxlibertine
+ttf-mscorefonts-installer
 bibtex2html
 auctex
 r-base-core
