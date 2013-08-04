@@ -9,5 +9,6 @@ fonts-linuxlibertine
 ttf-mscorefonts-installer
 bibtex2html
 auctex
-r-base-core
 pidgin
+synapse
+dos2unix
