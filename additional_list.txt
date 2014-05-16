@@ -10,5 +10,4 @@ ttf-mscorefonts-installer
 bibtex2html
 auctex
 pidgin
-synapse
 dos2unix
